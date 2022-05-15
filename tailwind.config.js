@@ -8,6 +8,9 @@ module.exports = {
       xl: '1440px',
     },
     extend: {
+      fontFamily: {
+        'vietnam': ['Be Vietnam Pro', 'sans-serif']
+      },
       colors: {
         brightRed: 'hsl(12, 88%, 59%)',
         brightRedLight: 'hsl(12, 88%, 69%)',

@@ -3,8 +3,8 @@ module.exports = {
   theme: {
     screens: {
       sm: '480px',
-      md: '768px',
-      lg: '976px',
+      md: '800px',
+      lg: '975px',
       xl: '1440px',
     },
     extend: {

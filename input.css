@@ -38,7 +38,7 @@ body {
   cursor: pointer;
   width: 24px;
   height: 24px;
-  transition: all 0.25s;
+  transition: all .25s;
   position: relative;
 }
 
@@ -52,7 +52,7 @@ body {
   height: 2px;
   background: #000;
   transform: rotate(0);
-  transition: all 0.5s;
+  transition: all .5s;
 }
 
 .ham-mid {

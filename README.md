@@ -88,7 +88,6 @@ I'd like to focus on improving my JavaScript abilites in future projects.
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Frontend Mentor - [@stephorc](https://www.frontendmentor.io/profile/stephorc)
 - LinkedIn - [@steph-o](https://www.linkedin.com/in/steph-o/)
 
 <!-- ## Acknowledgments

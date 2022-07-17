@@ -1,9 +1,9 @@
 # Frontend Mentor - Manage landing page solution
 
-![Desktop Solution](https://github.com/stephorc/tailwind-manage-landing/tree/main/solution/Manage-desktop.png)
-<!-- ![Laptop Solution](https://github.com/stephorc/tailwind-manage-landing/tree/main/solution/Manage-laptop.png)
-![Tablet Solution](https://github.com/stephorc/tailwind-manage-landing/tree/main/solution/Manage-tablet.png)
-![Mobile Solution](https://github.com/stephorc/tailwind-manage-landing/tree/main/solution/Manage-mobile.png) -->
+![Desktop Solution](https://github.com/stephorc/tailwind-manage-landing/blob/main/solution/Manage-desktop.png)
+<!-- ![Laptop Solution](https://github.com/stephorc/tailwind-manage-landing/blob/main/solution/Manage-laptop.png)
+![Tablet Solution](https://github.com/stephorc/tailwind-manage-landing/blob/main/solution/Manage-tablet.png)
+![Mobile Solution](https://github.com/stephorc/tailwind-manage-landing/blob/main/solution/Manage-mobile.png) -->
 
 **Live Site URL** - ***https://stephorc.github.io/tailwind-manage-landing/***
 
